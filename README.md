@@ -1,2 +1,2 @@
-# arnavcooli.github.io
-my site 
+Hello. This is my website.
+That's IT!
