@@ -9,8 +9,8 @@ body {
     height: 100vh;
     overflow: hidden;
     background-image: url("IMG_0358.jpeg);
-  background-repeat: no-repeat;
-  background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .title {
